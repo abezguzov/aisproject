@@ -1,4 +1,4 @@
-# aisproject
+# Application of AIS Data for commodities tracking
 This project aims at investigating the quality and utility of Automatic Identification System (AIS) data. AIS data is primarily used as a tracking system for ships, but with the launch if satellites to collect this data new and previously untested posibilities are emerging.
 
 This project will be split in three different sections:
